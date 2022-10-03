@@ -1,3 +1,6 @@
+#In the old code there is sth not right, everytime it shows the right answer before asking you to play again, that is really pointless
+#so i change the code a litte bit, now if you answer yes to play again, it doesn't show anything, if the answer is no then it shows the question's right answers
+
 print("Welcome to our game!")
 
 questions = {"Where is the game's owner from: ":"A",
